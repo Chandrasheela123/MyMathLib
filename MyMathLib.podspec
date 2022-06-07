@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'MyMathLib'
-  s.version          = '0.1.0'
+  s.name             = 'CapMyMathLib'
+  s.version          = '0.1.1'
   s.summary          = 'Mathematical functionalities in swift'
 
 # This description is used to generate tags and improve search results.
