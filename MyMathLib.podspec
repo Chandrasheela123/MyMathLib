@@ -31,7 +31,7 @@ This is simple library of basic Mathematical functions
   s.ios.deployment_target = '9.0'
   s.swift_versions = '5.0'
 
-  s.source_files = 'MyMathLib/Classes/**/*'
+  s.source_files = 'Classes/**/*'
   
   # s.resource_bundles = {
   #   'MyMathLib' => ['MyMathLib/Assets/*.png']
